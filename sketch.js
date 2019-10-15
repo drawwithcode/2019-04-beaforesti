@@ -82,7 +82,7 @@ function draw() {
 
   text
   push()
-  var myTextA = 'Press enter to ring the bell';
+  var myTextA = 'Press ENTER to ring the bell';
   var myTextB = 'Move from left to right to start music'
   drawingContext.font = "15px Nanum Gothic Coding";
   drawingContext.textAlign = "center";
